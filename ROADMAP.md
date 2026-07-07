@@ -11,6 +11,7 @@ Fundação (2026-07-07, Fable): workflow v0 especificado, nenhum código. Ativo:
 - decisão: score de fronteira visível ou oculto durante fase 1 (afeta gaming e motivação)
 - integração dobra: corpus entre coortes com context folding (memória de longo prazo)
 - integração /loops: ideia sobrevivente vira feature request do fluxo loop-engineering
+- integração motor do instituto (`branches/instituto/MOTOR.md` + `core/flows/mechanism-search.md`): cria = estágios 2-4 do motor em versão controlada/medida; compartilhar corpus de precedentes (estágio 0) e formato de candidato
 - plataforma multi-user estilo Polis (contribuir+reagir, sem reply) — SÓ se evidência do piloto justificar (decisão C2 do paper)
 
 ---
