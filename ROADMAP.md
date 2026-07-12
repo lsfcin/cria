@@ -13,6 +13,7 @@ Fundação (2026-07-07, Fable): workflow v0 especificado, nenhum código. Ativo:
 - integração /loops: ideia sobrevivente vira feature request do fluxo loop-engineering
 - integração motor do instituto (`branches/instituto/MOTOR.md` + `core/flows/mechanism-search.md`): cria = estágios 2-4 do motor em versão controlada/medida; compartilhar corpus de precedentes (estágio 0) e formato de candidato
 - plataforma multi-user estilo Polis (contribuir+reagir, sem reply) — SÓ se evidência do piloto justificar (decisão C2 do paper)
+- técnicas de foresight (Institute for the Future, Jane McGonigal) + design especulativo como motores/lentes de ideação
 
 ---
 
