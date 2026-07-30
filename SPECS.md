@@ -1,6 +1,6 @@
-# cria — workflow v0 (spec canônica)
+# cria — Specs (workflow v0, spec canônica)
 
-> Geração de ideias híbrida humano-IA com mechanism design: diversidade coletiva como payoff, grounding por kill-test, propósito = reverter lógicas de crise. Sem UI: file-based, como o loop-engineering (`core/flows/loop-engineering.md`). Espelho acadêmico: `academy/papers/2027-CHI-cria/sections/03_cria.tex` (sync obrigatório — ver [BRIDGE.md](BRIDGE.md)).
+> Geração de ideias híbrida humano-IA com mechanism design: diversidade coletiva como payoff, grounding por kill-test, propósito = reverter lógicas de crise. Sem UI: file-based, como o craft flow (`core/flows/craft/craft.md`). Espelho acadêmico: `academy/papers/2027-CHI-cria/sections/03_cria.tex` (sync obrigatório — ver § Twin abaixo).
 
 ## Metas de design
 
@@ -75,3 +75,30 @@ Dois ciclos completos de **ideação → execução → ajuste/pivot** por semes
 - como punir "diversidade superficial" (parafrasear longe ≠ ideia nova) — rubrica humana no atrito
 - peso relativo score-fronteira vs. sobrevivência na nota de contribuição
 - anti-gaming: score visível ou oculto durante a fase 1?
+
+## Twin — cross-duties
+
+> Was `BRIDGE.md`, folded here 2026-07-30. Padrão dobra: código e paper são gêmeos, e o que cada
+> lado deve ao outro é invariante — não um tipo `.md` separado (`core/SCHEMA.md` § The four
+> disposal routes). Twin de pesquisa: `academy/papers/2027-CHI-cria`.
+
+### Código deve ao paper
+
+- Todo número reportável nasce aqui com proveniência: runs em `runs/` (quando existirem), métricas
+  em CSV → copiados pra `academy/papers/2027-CHI-cria/outputs/` com script, nunca à mão
+- Mudança nas fases/operadores/score acima → sincronizar `sections/03_cria.tex` na mesma sessão
+- Modelo de embedding e função de score: congelados após o pré-registro OSF — mudança vira emenda
+  documentada nos dois lados
+
+### Paper deve ao código
+
+- Decisões de desenho do experimento (métricas, exclusões) chegam como item no `ROADMAP.md` daqui
+  antes de virar seção
+- Achados de literatura com consequência de implementação (ex.: anti-gaming, personas) → item no
+  Backlog daqui com link pro ref yaml
+
+### Sessões
+
+- Sessão de código: ler `CONTEXT.md` + `ROADMAP.md` Status daqui; não editar o paper além do sync
+  do `03_cria.tex`
+- Sessão de paper: protocolo no `CONTEXT.md` do twin; não editar código além de copiar outputs

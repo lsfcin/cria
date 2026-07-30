@@ -4,15 +4,14 @@
 
 ## Overview
 
-Casa do workflow operacional e da futura ferramenta do cria. Spec canônica: [WORKFLOW.md](WORKFLOW.md). Plano: [ROADMAP.md](ROADMAP.md). Deveres cruzados com o paper: [BRIDGE.md](BRIDGE.md). Sem código ainda — M1 (dry-run harness) é o primeiro milestone. Dossiês de crise (grounding) ficam no paper: `academy/papers/2027-CHI-cria/outputs/CRISES.md`.
+Casa do workflow operacional e da futura ferramenta do cria. Spec canônica: [SPECS.md](SPECS.md). Plano: [ROADMAP.md](ROADMAP.md). Deveres cruzados com o paper: [SPECS.md](SPECS.md) § Twin. Sem código ainda — M1 (dry-run harness) é o primeiro milestone. Dossiês de crise (grounding) ficam no paper: `academy/papers/2027-CHI-cria/outputs/CRISES.md`.
 
 <!-- routing:start -->
 ## Routing
 
 | File | Interface | API | Description |
 |------|-----------|-----|-------------|
-| [`BRIDGE.md`](BRIDGE.md) | — | — | BRIDGE — deveres cruzados code/cria ↔ academy/papers/2027-CHI-cria |
 | [`README.md`](README.md) | — | — | cria |
 | [`ROADMAP.md`](ROADMAP.md) | — | — | cria — Roadmap |
-| [`WORKFLOW.md`](WORKFLOW.md) | — | — | cria — workflow v0 (spec canônica) |
+| [`SPECS.md`](SPECS.md) | — | — | cria — Specs (workflow v0, spec canônica) |
 <!-- routing:end -->

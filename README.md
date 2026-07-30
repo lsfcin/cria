@@ -8,7 +8,7 @@
 - Score de fronteira semântica (embeddings) recompensa território novo — homogenização perde por construção
 - Instrumenta tudo: cada ideia, voto, kill-test e pivot vira dado do experimento (paper twin)
 
-Spec completa: [WORKFLOW.md](WORKFLOW.md).
+Spec completa: [SPECS.md](SPECS.md).
 
 ## Status
 
@@ -19,4 +19,4 @@ Fase: pré-código (fundação 2026-07-07). Próximo milestone: M1 dry-run harne
 TBD
 
 ---
-[CONTEXT.md](CONTEXT.md) · [WORKFLOW.md](WORKFLOW.md) · [ROADMAP.md](ROADMAP.md) · [BRIDGE.md](BRIDGE.md)
+[CONTEXT.md](CONTEXT.md) · [SPECS.md](SPECS.md) · [ROADMAP.md](ROADMAP.md)
