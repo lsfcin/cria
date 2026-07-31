@@ -9,9 +9,9 @@ Casa do workflow operacional e da futura ferramenta do cria. Spec canônica: [SP
 <!-- routing:start -->
 ## Routing
 
-| File | Interface | API | Description |
-|------|-----------|-----|-------------|
-| [`README.md`](README.md) | — | — | cria |
-| [`ROADMAP.md`](ROADMAP.md) | — | — | cria — Roadmap |
-| [`SPECS.md`](SPECS.md) | — | — | cria — Specs (workflow v0, spec canônica) |
+| File | Description |
+|------|-------------|
+| [`README.md`](README.md) | cria |
+| [`ROADMAP.md`](ROADMAP.md) | cria — Roadmap |
+| [`SPECS.md`](SPECS.md) | cria — Specs (workflow v0, spec canônica) |
 <!-- routing:end -->
